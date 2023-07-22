@@ -4,7 +4,7 @@
 
 ### Published Research
 
-[Switchable Lightweight Anti-symmetric Processing (SLAP) with CNN - Application in Gomoku Reinforcement Learning](/sample_page)
+[Switchable Lightweight Anti-symmetric Processing (SLAP) with CNN - Application in Gomoku Reinforcement Learning](/slap)
 
 <img src="images/Fig6.png?raw=true"/>
 
