@@ -4,7 +4,8 @@
 
 ### Published Research
 
-[Project 1 Title](/sample_page)
+[Switchable Lightweight Anti-symmetric Processing (SLAP) with CNN - Application in Gomoku Reinforcement Learning](/sample_page)
+
 <img src="images/Fig6.png?raw=true"/>
 
 ---
