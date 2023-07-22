@@ -29,7 +29,8 @@ Combined NLP, machine learning and actuarial methods/knowledge to predict the wo
   Utilised ChatGPT API to create simple chatbot aimed at chatting with kids who only know simple English, with features to tell kids about their typos and provide Chinese translation. A 5-year-old kid successfully chatted with the chatbot for a while.
 - [Diabetes Classification](https://github.com/chihangs/diabetes_classification)
   Used random forest, gradient boosting, neural network with SMOTE-ENN and random over-sampling to classify diabetes or not.
-- [Diabetes Classification](https://github.com/chihangs/diabetes_classification)
+- [Object Detection by Instance Segmentation](https://github.com/chihangs/INM705)
+  Mask R-CNN model was used for Microsoft COCO dataset. Achieved higher average precision than original paper by specialising on object detection of aircrafts and birds only. (NB: could also be due to easier classes than average but not ascertained and out of scope.)
 
 
 
