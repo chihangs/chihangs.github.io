@@ -23,13 +23,14 @@ Combined NLP, machine learning and actuarial methods/knowledge to predict the wo
 
 ---
 
-### Category Name 3
+### Other AI / Data Science Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Chatbot for Kids](https://github.com/chihangs/chatbot_kid)
+  Utilised ChatGPT API to create simple chatbot aimed at chatting with kids who only know simple English, with features to tell kids about their typos and provide Chinese translation. A 5-year-old kid successfully chatted with the chatbot for a while.
+- [Diabetes Classification](https://github.com/chihangs/diabetes_classification)
+  Used random forest, gradient boosting, neural network with SMOTE-ENN and random over-sampling to classify diabetes or not.
+- [Diabetes Classification](https://github.com/chihangs/diabetes_classification)
+
 
 
 
