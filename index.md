@@ -13,13 +13,13 @@ Improved convolutional neural network learning speed and reduced reinforcement l
 ---
 
 
-### Category Name 2
+### Score between Top 5 & 6 in Kaggle
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Predict Insurance CLaims](/insurance_claims)
+
+Combined NLP, machine learning and actuarial methods/knowledge to predict the workers compensation insurance claims. The best private score was between top 5 and 6 in the Kaggle competition.
+
+<img src="images/feature_importance.png?raw=true"/>
 
 ---
 
