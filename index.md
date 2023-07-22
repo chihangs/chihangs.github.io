@@ -5,6 +5,7 @@
 ### Published Research
 
 [Switchable Lightweight Anti-symmetric Processing (SLAP) with CNN - Application in Gomoku Reinforcement Learning](/slap)
+Improved convolutional neural network learning speed and reduced reinforcement learning sample size by 83.2% and 87.5% respectively in symmetry invariant domain with novel method 'SLAP' replacing data augmentation.
 
 <img src="images/Fig6.png?raw=true"/>
 
