@@ -2,6 +2,16 @@
 
 ---
 
+### Fine-tune ChatGPT
+
+[Identify Fake News](/Fine-tune-ChatGPT)
+
+Fine-tuned ChatGPT’s gpt-3.5-turbo model to classify news as fake or not suspected to be fake, trained by data from news from CNN and fake news from Onion.
+
+<img src="images/fine_tune_results.png?raw=true"/>
+
+---
+
 ### Score between Top 5 & 6 in Kaggle
 
 [Predict Insurance Claims](/insurance_claims)
